@@ -5,3 +5,8 @@ ___
 
   Esse código tem como função, apenas ser algo feito para completar a atividade relativa a **Colaboração** usada no github.
 ___
+
+Aula do dia:
+```
+03/02/2025
+```
